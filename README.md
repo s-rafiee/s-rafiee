@@ -7,3 +7,10 @@
 ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-8e44ad?style=for-the-badge&logo=Bootstrap&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-16a085?style=for-the-badge&logo=Tailwind-css&logoColor=white)
+
+<h4>Backend</h4>
+![PHP](https://img.shields.io/badge/PHP-5352ed?style=for-the-badge&logo=PHP&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-c0392b?style=for-the-badge&logo=Laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-e67e22?style=for-the-badge&logo=Python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-16a085?style=for-the-badge&logo=Django&logoColor=white)
+![Django_Rest_Framework](https://img.shields.io/badge/Django_Rest-2c3e50?style=for-the-badge&logo=Django_Rest_Framework&logoColor=white)
