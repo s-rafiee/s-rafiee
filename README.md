@@ -38,7 +38,7 @@
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-%23ffffff?style=for-the-badge&logo=gitLab)
+![GitLab](https://img.shields.io/badge/-GitLab-341f97?style=for-the-badge&logo=gitLab)
 ![Pycharm](http://img.shields.io/badge/-Pycharm-27ae60?style=for-the-badge&logo=Pycharm&logoColor=f2ff05)
 ![Linux](http://img.shields.io/badge/-Linux-e74c3c?style=for-the-badge&logo=linux&logoColor=ffffff)
 ![Jupyter_Notebook](http://img.shields.io/badge/Jupyter_Notebook-e67e22?style=for-the-badge&logo=Jupyter&logoColor=ffffff)
