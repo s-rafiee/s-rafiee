@@ -1,8 +1,7 @@
-<h1 align="center">Hi <img src="./images/Hi.gif" width="30px">, I'm Saman Rafiee.</h1><h3> Welcome to my GitHub Profile.</h3>
+<h1 align="center">Hi <img src="./images/Hi.gif" width="30px">, I'm Saman Rafiee.</h1><h3 align="center"> Welcome to my GitHub Profile.</h3>
 
 <h2>🛠 &nbsp;Languages and Tools</h2>
 <h4>Front</h4>
-<hr>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
