@@ -44,7 +44,7 @@
 ![Jupyter_Notebook](http://img.shields.io/badge/Jupyter_Notebook-e67e22?style=for-the-badge&logo=Jupyter&logoColor=ffffff)
 ![Dataiku](http://img.shields.io/badge/Dataiku-16a085?style=for-the-badge&logo=Dataiku&logoColor=ffffff)
 
-<h2><img src="./images/papers.png" width="20" height="20"> Papers</h2>
+<h3><img src="./images/papers.png" width="20" height="20"> Papers</h3>
 
 <table>
     <thead>
