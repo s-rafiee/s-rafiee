@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="./images/Hi.gif" width="30px">, I'm Saman Rafiee.<br> Welcome to my GitHub Profile.</h1>
 
-<h3>🛠 &nbsp;Languages and Tools</h3>
+<h2>🛠 &nbsp;Languages and Tools</h2>
 <h4>Front</h4>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
@@ -44,7 +44,7 @@
 ![Jupyter_Notebook](http://img.shields.io/badge/Jupyter_Notebook-e67e22?style=for-the-badge&logo=Jupyter&logoColor=ffffff)
 ![Dataiku](http://img.shields.io/badge/Dataiku-16a085?style=for-the-badge&logo=Dataiku&logoColor=ffffff)
 
-<h3><img src="./images/papers.png" width="20" height="20"> Papers</h3>
+<h2><img src="./images/papers.png" width="20" height="20"> Papers</h2>
 
 <table>
     <thead>
@@ -81,7 +81,7 @@
     </tbody>
 </table>
 
-<h3>🤝🏻 &nbsp;Connect with Me</h3>
+<h2>🤝🏻 &nbsp;Connect with Me</h2>
 
 <p>
 <a href="https://linkedin.com/in/saman-rafiee"><img src="https://img.shields.io/badge/-saman_rafiee_sardo-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
