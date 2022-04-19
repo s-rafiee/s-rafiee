@@ -89,9 +89,7 @@
 <a href="https://twitter.com/rafieesaman"><img src="https://img.shields.io/badge/-@rafieesaman-3498db?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
 <h2>Other</h2>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-rafiee)
-![Top Langs](https://github.com/anuraghazra/github-readme-stats)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=s-rafiee)  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=s-rafiee&show_icons=true&count_private=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=s-rafiee)
