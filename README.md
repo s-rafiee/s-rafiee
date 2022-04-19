@@ -88,3 +88,15 @@
 <a href="mailto:saman.rafiee.rs@gmail.com"><img src="https://img.shields.io/badge/-mailto:saman.rafiee.rs@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://twitter.com/rafieesaman"><img src="https://img.shields.io/badge/-@rafieesaman-3498db?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
+<h2>Other</h2>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-rafiee)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=s-rafiee&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=s-rafiee)
+
+![GitHub metrics](https://metrics.lecoq.io/s-rafiee)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=s-rafiee)  
+
+![Profile views](https://gpvc.arturio.dev/s-rafiee)  
