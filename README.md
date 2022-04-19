@@ -90,14 +90,9 @@
 </p>
 <h2>Other</h2>
 <div style="background:#ededed;">
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=s-rafiee)  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=s-rafiee&show_icons=true&count_private=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=s-rafiee)
-
-![GitHub metrics](https://metrics.lecoq.io/s-rafiee)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=s-rafiee)  
-
+ 
 ![Profile views](https://gpvc.arturio.dev/s-rafiee)  
 </div>
