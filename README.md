@@ -91,8 +91,8 @@
 <h2>Other</h2>
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=s-rafiee&show_icons=true&count_private=true)  
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=s-rafiee&show_icons=true&count_private=true)  
 
 ![Top Lan](https://github-readme-stats.vercel.app/api/top-langs/?username=s-rafiee)
  
-![Profile views](https://gpvc.arturio.dev/s-rafiee)
+![Profile views](https://gpvc.arturio.dev/s-rafiee) -->
