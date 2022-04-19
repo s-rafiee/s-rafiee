@@ -89,6 +89,7 @@
 <a href="https://twitter.com/rafieesaman"><img src="https://img.shields.io/badge/-@rafieesaman-3498db?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
 <h2>Other</h2>
+<div style="background:#ededed;">
 ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=s-rafiee)  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=s-rafiee&show_icons=true&count_private=true)  
 
@@ -99,3 +100,4 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=s-rafiee)  
 
 ![Profile views](https://gpvc.arturio.dev/s-rafiee)  
+</div>
