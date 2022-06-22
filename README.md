@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="./images/Hi.gif" width="30px" height="30px;" style="max-width:30px!important;max-height:30px!important;">, I'm Saman Rafiee.</h1><h3 align="center"> Welcome to my GitHub Profile.</h3>
+<h1 align="center">Hi <img src="./images/Hi.gif" width="30px" height="30px;">, I'm Saman Rafiee.</h1><h3 align="center"> Welcome to my GitHub Profile.</h3>
 
 <h2>🛠 &nbsp;Languages and Tools</h2>
 <h4>Front</h4>
